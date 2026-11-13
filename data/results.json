@@ -1,6 +1,19 @@
 {
  "about": "RimRunnerCalifornia 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "487ef998-1502-4f5e-a610-ae3834158e01": {
+   "awayMp": "8568eb8c-d32b-4353-ad6b-3c895e36c938",
+   "awayScore": 36,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "gameId": "ca26-0002",
+   "homeMp": "b14392c9-2487-422d-90dd-631e70fa4c13",
+   "homeScore": 75,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "bd2d60b1-b21b-4792-8047-327a29025f98": {
    "awayMp": "89f5c83d-241d-4b68-b20b-89b18c5b1854",
    "awayScore": 42,
