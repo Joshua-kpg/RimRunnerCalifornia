@@ -404,6 +404,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "c783b7fa-2028-421c-bd31-fa4619619d67": {
+   "awayMp": "974123aa-7e23-4931-84fd-5a5f58ac73ce",
+   "awayScore": 25,
+   "date": "2026-11-14",
+   "forfeit": false,
+   "gameId": "ca26-0039",
+   "homeMp": "dd2e3541-aa5e-448b-9b53-4c5c71b36a36",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "d34fa2d9-aded-4f1d-8ddd-572720f71c85": {
    "awayMp": "c43f17a7-0942-40b0-bb5e-d13026e9ae0d",
    "awayScore": 32,
